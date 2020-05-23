@@ -13,5 +13,9 @@ VOLUME /data
 ENV PORT=8538 \
     HOST=0.0.0.0
 
-ENTRYPOINT ["gcloud", "beta", "emulators", "pubsub"]
-CMD ["start", "--host-port=$HOST:$PORT", "--data-dir=/data", "--log-http", "--verbosity=debug", "--user-output-enabled"]
+CMD gcloud beta emulators pubsub start \
+    --host-port=${HOST}:${PORT} \
+    --data-dir=/data \
+    --log-http \
+    --verbosity=debug \
+    --user-output-enabled

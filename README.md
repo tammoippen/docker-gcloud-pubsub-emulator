@@ -1,5 +1,7 @@
 [![Docker Automated Build](https://img.shields.io/docker/automated/bigtruedata/gcloud-pubsub-emulator.svg)](https://hub.docker.com/r/bigtruedata/gcloud-pubsub-emulator/) [![Docker Build Status](https://img.shields.io/docker/build/bigtruedata/gcloud-pubsub-emulator.svg)](https://hub.docker.com/r/bigtruedata/gcloud-pubsub-emulator/builds/) [![Docker Pulls](https://img.shields.io/docker/pulls/bigtruedata/gcloud-pubsub-emulator.svg)](https://hub.docker.com/r/bigtruedata/gcloud-pubsub-emulator/) [![Docker Stars](https://img.shields.io/docker/stars/bigtruedata/gcloud-pubsub-emulator.svg)](https://hub.docker.com/r/bigtruedata/gcloud-pubsub-emulator/) [![License](https://img.shields.io/github/license/bigtruedata/docker-gcloud-pubsub-emulator.svg)](https://raw.githubusercontent.com/bigtruedata/docker-gcloud-pubsub-emulator/blob/master/LICENSE.md)
 
+**NOTE** This is a fork using my (tammoippen) prefered options. Also, host and port can be set via env vars.
+
 # [Google Cloud Pub/Sub Emulator Image](https://hub.docker.com/r/bigtruedata/gcloud-pubsub-emulator/)
 
 [*Cloud Pub/Sub*](https://cloud.google.com/pubsub/) is a global service for real-time and reliable messaging and streaming data
