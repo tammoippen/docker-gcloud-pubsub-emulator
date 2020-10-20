@@ -1,7 +1,8 @@
-[![Docker Automated Build](https://img.shields.io/docker/automated/tammoippen/docker-gcloud-pubsub-emulator.svg)](https://hub.docker.com/r/tammoippen/docker-gcloud-pubsub-emulator/) [![Docker Build Status](https://img.shields.io/docker/build/tammoippen/docker-gcloud-pubsub-emulator.svg)](https://hub.docker.com/r/tammoippen/docker-gcloud-pubsub-emulator/builds/) 
+[![Docker Automated Build](https://img.shields.io/docker/automated/tammoippen/docker-gcloud-pubsub-emulator.svg)](https://hub.docker.com/r/tammoippen/docker-gcloud-pubsub-emulator/) 
+[![Docker Build Status](https://img.shields.io/docker/build/tammoippen/docker-gcloud-pubsub-emulator.svg)](https://hub.docker.com/r/tammoippen/docker-gcloud-pubsub-emulator/builds/) 
 [![Docker Pulls](https://img.shields.io/docker/pulls/tammoippen/docker-gcloud-pubsub-emulator.svg)](https://hub.docker.com/r/tammoippen/docker-gcloud-pubsub-emulator/) 
 [![Docker Stars](https://img.shields.io/docker/stars/tammoippen/docker-gcloud-pubsub-emulator.svg)](https://hub.docker.com/r/tammoippen/docker-gcloud-pubsub-emulator/) 
-[![License](https://img.shields.io/github/license/tammoippen/docker-docker-gcloud-pubsub-emulator.svg)](https://raw.githubusercontent.com/tammoippen/docker-docker-gcloud-pubsub-emulator/blob/master/LICENSE.md)
+[![License](https://img.shields.io/github/license/tammoippen/docker-gcloud-pubsub-emulator.svg)](https://raw.githubusercontent.com/tammoippen/docker-gcloud-pubsub-emulator/blob/master/LICENSE.md)
 
 **NOTE** This is a fork using my (tammoippen) prefered options. Also, host and port can be set via env vars.
 
